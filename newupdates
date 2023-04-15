@@ -1,26 +1,3 @@
-3/27/2023
--Location locked mechanics
--Vehicle Armor Removed
--New Police Job Added 
-
-3/30/2023
--Made it so that PD doesnt have to type all the info for mugshots
--Fuel Station Added to RHPD
--PDM, Luxury Dealership Job Changed
--Fixed a few cuffing and escort bugs
-
-3/31/23
--Police Evidence Updated
--Vehicle Shop Fixed
--Added scenes
-
-4/1/23
--Police Boat Spawner Added
--Boat Fueling Station Added
-
-4/2/2023
--Fixed Hand animation issue for recycling and oxyruns
-
 4/5/2023
 -Mile High Club Fixed from Crashing players
 -Legion Park Central Park Map Removed Temporarily
@@ -44,3 +21,6 @@
 
 4/14/2023
 -Massive Joints revamp
+
+4/15/2023
+-Fixed Escort glitch when in vehicle
